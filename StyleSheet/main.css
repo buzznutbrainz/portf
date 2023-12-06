@@ -1,0 +1,119 @@
+body, h1, h2, p, ul, table, figure, nav {
+    margin: 0;
+    padding: 0;
+  }
+  
+  .header {
+    background-color: #e9e9e9;
+    padding: 20px;
+    text-align: center;
+    
+  }
+
+  body {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif, san-serif;
+    line-height: 1.6;
+    background-color: #e9e9e9;
+    color: #333;
+  }
+  
+  h1 {
+    font-size: 3em;
+  }
+  
+  nav {
+    background-color: #444;
+    padding: 10px;
+    text-align: center;
+  }
+
+  nav a {
+    color: #fff;
+    text-decoration: none;
+    margin: 0 10px;
+  }
+  
+  nav a:hover {
+    text-decoration: underline;
+  }
+  
+  section {
+    margin: 20px;
+    padding: 20px;
+    background-color: #fff;
+
+  }
+  
+  h2 {
+    color: #333;
+  }
+  
+  p {
+    margin-bottom: 15px;
+  }
+  
+  figure {
+    margin-bottom: 20px;
+  }
+  
+  img {
+    max-width: 100%;
+    height: auto;
+  }
+  
+  figcaption {
+    text-align: center;
+    font-style: italic;
+    color: #777;
+  }
+  
+  ul {
+    list-style-type: none;
+    padding: 0;
+
+  }
+  
+  ul li {
+    margin-bottom: 10px;
+  }
+  
+  a {
+    color: #0066cc;
+    text-decoration: none;
+  }
+  
+  a:hover {
+    text-decoration: underline;
+  }
+  
+  table, th, td {
+     border: 1px solid;
+  }
+  
+  th, td {
+    border: 1px solid #000000;
+    padding: 8px;
+    text-align: left;
+  }
+  
+  th {
+    background-color: #e9e9e9;
+  }
+  
+  caption {
+    caption-side: bottom;
+    font-style: italic;
+    color: #777;
+  }
+  
+  .footer {
+    background-color: #ef9937;
+    color: #000000;
+    padding: 10px;
+    text-align: center;
+    bottom: 0;
+    width: 100%;
+  }
+
+  /*same soup still just reheated again*/
+  
